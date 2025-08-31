@@ -1,0 +1,10 @@
+{
+  "weather2_bot": {
+    "bot_token": "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11",
+    "default_chat_id": "111111111"
+  },
+  "weather_bot": {
+    "bot_token": "8248911436:AAEcHc5cDmT4iI250Qqisivfh3e8quOiz0E",
+    "default_chat_id": "8469957334"
+  }
+}

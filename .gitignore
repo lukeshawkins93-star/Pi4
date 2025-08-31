@@ -1,0 +1,15 @@
+# Logs
+*.log
+*.out
+
+# Databases
+*.db
+*.sqlite
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
